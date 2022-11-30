@@ -8,7 +8,7 @@ main()
 	int max;
 	int sum; 
 	   
-    printf("Enter kol-vo chisel viborky: ");
+    printf("Enter kol-vo chisel: ");
     scanf("%i",&n);
     printf("Enter first number: ");
     scanf("%i", &numb);
